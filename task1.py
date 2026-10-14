@@ -3,4 +3,4 @@ text = ("Before departure, all students leaving for exchange studies should fill
 opn = text.find("(")
 end = text.find(", Tel.")
 address = text[opn + 1 : end]
-print(address)
+print(address) la la la Sophie is best
